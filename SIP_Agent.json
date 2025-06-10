@@ -504,7 +504,6 @@
     },
     {
       "parameters": {
-        "person": "PnQwcsps5V",
         "text": "={{ $json.linkedin_post }}",
         "shareMediaCategory": "IMAGE",
         "additionalFields": {}
