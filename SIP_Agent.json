@@ -390,7 +390,7 @@
     },
     {
       "parameters": {
-        "folderId": "1v5SEZX2ge-EzFEL_vgyM48j1naFHu2fC",
+        "folderId": "1VzjZ7Mcc7F_u4EhfFF47GBwk5nXR54YJ",
         "title": "Linkedin posts"
       },
       "type": "n8n-nodes-base.googleDocs",
