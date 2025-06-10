@@ -426,7 +426,7 @@
         "select": "channel",
         "channelId": {
           "__rl": true,
-          "value": "C08GJ3CG342",
+          "value": "C090LBVB1EV",
           "mode": "list",
           "cachedResultName": "slacktrigger_n8n_blog"
         },
