@@ -504,6 +504,7 @@
     },
     {
       "parameters": {
+        "organizationUrn": "urn:li:organization:107661664",
         "text": "={{ $json.linkedin_post }}",
         "shareMediaCategory": "IMAGE",
         "additionalFields": {}
