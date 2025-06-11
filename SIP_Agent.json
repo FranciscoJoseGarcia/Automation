@@ -196,7 +196,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://api.apify.com/v2/acts/powerai/twitter-search-scraper/run-sync-get-dataset-items?token=apify_api_RotRcrpmf5068drm90fE6XRLbZoIBB4GgUBi",
+        "url": "https://api.apify.com/v2/acts/powerai~twitter-search-scraper/run-sync-get-dataset-items?token=apify_api_RotRcrpmf5068drm90fE6XRLbZoIBB4GgUBi",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "{\n  \"query\": \"n8n\",\n  \"max_posts\": 10,\n  \"includeReplies\": false,\n  \"includeRetweets\": false,\n  \"searchType\": \"Top\",\n  \"tweetLanguage\": \"en\"\n}",
