@@ -228,9 +228,9 @@
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "grok-2-1212",
+          "value": "gpt-3.5-turbo",
           "mode": "list",
-          "cachedResultName": "grok-2-1212"
+          "cachedResultName": "gpt-3.5-turbo"
         },
         "options": {}
       },
