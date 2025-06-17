@@ -228,20 +228,20 @@
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "gemini-1.5-pro",
+          "value": "gpt-3.5-turbo",
           "mode": "list",
-          "cachedResultName": "gemini-pro"
+          "cachedResultName": "gpt-3.5-turbo"
         },
         "options": {}
       },
-      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleVertexAi",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
       "typeVersion": 1.2,
       "position": [
         4700,
         2500
       ],
       "id": "14ee592b-dfbf-4ae3-90e4-93dc5974e4ce",
-      "name": "Google Gemini Model"
+      "name": "OpenAI Chat Model1"
     },
     {
       "parameters": {
