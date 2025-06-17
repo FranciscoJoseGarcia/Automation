@@ -228,7 +228,7 @@
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "gemini-1.5-flash",
+          "value": "gemini-1.5-pro",
           "mode": "list",
           "cachedResultName": "gemini-pro"
         },
